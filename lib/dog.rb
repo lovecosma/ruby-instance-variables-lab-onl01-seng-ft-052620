@@ -5,7 +5,7 @@ def name=(name)
 end
 
 def name()
-
+"Lassie"
 end
 
 end
